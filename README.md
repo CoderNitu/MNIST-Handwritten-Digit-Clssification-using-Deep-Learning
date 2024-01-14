@@ -9,7 +9,7 @@ It is a type of grayscale image and the image processing and cross-validation pa
 
 
 
-We can find the dataset directly in the Keras library where can use the API .https://keras.io/api/datasets/mnist/
+We can find the dataset directly in the Keras library where we can use the API .https://keras.io/api/datasets/mnist/
 
 
 
